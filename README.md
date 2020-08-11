@@ -91,9 +91,9 @@ What won't happen:
 * You won't be put on the spot without support
 * There's nothing you can do to instantly fail or blow it
 
-### Scoring
+### Grading
 
-Your teacher will use the rubric at the bottom of this assignment to grade your project. In order to pass, you must score "Accomplished" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically sometime the week after your review.
+Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must score "Accomplished" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
 
 ## Conclusion
 
