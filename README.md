@@ -93,7 +93,7 @@ What won't happen:
 
 ### Grading
 
-Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must score "Accomplished" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
+Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
 
 ## Conclusion
 
