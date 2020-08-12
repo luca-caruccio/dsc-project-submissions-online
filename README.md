@@ -23,8 +23,8 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 ### Jupyter Notebook PDF Creation
 
 1. Open your Notebook in your browser (we recommend Google Chrome).
-2. Run the Notebook from start to finish so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+2. **Run the Notebook from start to finish** so that your output is visible.
+3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions][])
 4. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
@@ -103,3 +103,4 @@ If you have any questions about the project submission or review process, don't 
 
 [Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation-slides-and-recording
 [instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
+[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
