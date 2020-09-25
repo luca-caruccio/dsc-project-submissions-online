@@ -1,4 +1,4 @@
-# Project Submission & Review
+# Project Submission & Review (Online)
 
 This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.
 
