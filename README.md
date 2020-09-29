@@ -2,9 +2,13 @@
 
 This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.
 
-## Submitting your Project
+## Schedule Your Review ASAP
 
-To submit your project in Canvas, you will create and upload PDF versions of three project deliverables. You will also submit URLs to your GitHub repository in a separate assignment.
+**Reach out to an instructor immediately via Slack to let them know you've started your project and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
+
+## Submit Your Project
+
+To submit your project in Canvas, you will create and upload PDF versions of three project deliverables, then upload a recording of your video presentation. You will also submit the URL to your GitHub repository in a separate assignment.
 
 ### Presentation Slides PDF Creation
 
@@ -15,7 +19,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 ### GitHub Repository PDF Creation
 
 1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
 3. Give it a short descriptive file name (e.g. `github.pdf`).
 
 ![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-online/master/repo_pdf.gif)
@@ -24,7 +28,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 
 1. Open your Notebook in your browser (we recommend Google Chrome).
 2. **Run the Notebook from start to finish** so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions][])
+3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
 4. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
@@ -39,11 +43,11 @@ You will need to submit all three PDF files as a single submission:
 
 ![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-online/master/project_3pdf_submission.gif)
 
-### Presentation Recording Submission
+### Presentation Recording and Submission
 
-You will need to upload your presentation recording as a media comment on your submitted assignment:
+You will need to record your presentation and upload the recording as a media comment after you've submitted the PDF files for this assignment:
 
-1. [Record your live presentation to a video file on your computer][].
+1. Record your live presentation to a video file on your computer. We recommend using Zoom to record your live presentation to a local video file ([instructions here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)). Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
 2. Click "Submission Details" on the top right of this page.
 3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
 4. Click "Upload Media" and "Select Video File" to upload your file.
@@ -53,9 +57,9 @@ You will need to upload your presentation recording as a media comment on your s
 
 ### URL Submission in Canvas
 
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is listed in the "Phase X Milestones" module in this course as "Phase X Project - GitHub Repository URL."
+There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
 
-## Project Review
+## Prepare For Project Review
 
 ### What to expect from the Project Review
 
@@ -100,7 +104,3 @@ Your teacher will use the rubric at the bottom of the main project assignment to
 Thank you for your hard work on this project - you're going to do great! Remember that future employers will also look at your projects when deciding whether to hire you, so having complete, polished projects will help you tremendously not only to pass this assignment, but also to get the job you want after you graduate.
 
 If you have any questions about the project submission or review process, don't hesitate to ask your teacher.
-
-[Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation-slides-and-recording
-[instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
