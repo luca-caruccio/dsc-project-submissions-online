@@ -1,10 +1,36 @@
 # Project Submission & Review (Online)
 
-This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.
+## Introduction
+
+In this lesson, we review the requirements, submission, and review process for the Phase 2 Project.
+
+## Objectives
+
+You will be able to:
+
+* Create project deliverables that meet Flatiron School requirements
+* Submit your project deliverables in Canvas
+* Prepare for your project review
 
 ## Schedule Your Review ASAP
 
 **Reach out to an instructor immediately via Slack to let them know you've started your project and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
+
+## Create Your Project Deliverables
+
+Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Below is an overview of the three deliverables
+
+### GitHub Repository
+
+Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+
+### Jupyter Notebook
+
+Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
+
+### Non-Technical Presentation
+
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then record yourself delivering the presentation.
 
 ## Submit Your Project
 
@@ -45,7 +71,7 @@ You will need to submit all three PDF files as a single submission:
 
 ### Presentation Recording and Submission
 
-You will need to record your presentation and upload the recording as a media comment after you've submitted the PDF files for this assignment:
+After you've submitted the PDF files for the project assignment, you will upload a recording of your presentation as a media comment on your submission:
 
 1. Record your live presentation to a video file on your computer. We recommend using Zoom to record your live presentation to a local video file ([instructions here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)). Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
 2. Click "Submission Details" on the top right of this page.
@@ -60,8 +86,6 @@ You will need to record your presentation and upload the recording as a media co
 There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
 
 ## Prepare For Project Review
-
-### What to expect from the Project Review
 
 Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
 
@@ -95,9 +119,9 @@ What won't happen:
 * You won't be put on the spot without support
 * There's nothing you can do to instantly fail or blow it
 
-### Grading
+## Grading
 
-Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
+Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
 
 ## Conclusion
 
