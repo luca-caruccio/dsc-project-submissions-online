@@ -18,7 +18,7 @@ You will be able to:
 
 ## Create Your Project Deliverables
 
-Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Below is an overview of the three deliverables
+Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
 ### GitHub Repository
 
