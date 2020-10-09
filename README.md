@@ -74,7 +74,7 @@ You will need to submit all three PDF files as a single submission:
 After you've submitted the PDF files for the project assignment, you will upload a recording of your presentation as a media comment on your submission:
 
 1. Record your live presentation to a video file on your computer. We recommend using Zoom to record your live presentation to a local video file ([instructions here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)). Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
-2. Click "Submission Details" on the top right of this page.
+2. Click "Submission Details" on the top right of the "Phase X Project" assignment in the "Milestones" topic.
 3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
 4. Click "Upload Media" and "Select Video File" to upload your file.
 5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
