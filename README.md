@@ -61,7 +61,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 
 You will need to submit all three PDF files as a single submission:
 
-1. Click "Submit Assignment" at the top of this page.
+1. Click "Submit Assignment" at the top of the "Phase X Project" assignment in the "Milestones" topic.
 2. In the "File Upload" box, click "Choose File" button to upload a single file.
 3. Click the "Add Another File" link to upload an additional file.
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
