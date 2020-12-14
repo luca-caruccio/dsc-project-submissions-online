@@ -22,7 +22,7 @@ This project will use descriptive analysis to group the available data according
 
 Animation, Adventure, and Musicals tend to do the best across both rating and profit. The best months to release films are June, May, and November. The ideal production budget should fall between 100-200 million, to ensure healthy profis an minimize risks.
 
-### Conclusions
+## Conclusions
 This Analysis leads to three key conclusions regarding Microsoft Studios' new project:
 
 1. Animation, Adventure, and Musicals are he most reliably successful genres through both rating and profit. Pick a film that falls under any combination of the three.
@@ -30,7 +30,7 @@ This Analysis leads to three key conclusions regarding Microsoft Studios' new pr
 3. Release dates for the film should prioritize the months of June, May, and November, in respective order of profit increase.
 
 
-### Next Steps
+## Next Steps
 
 Deeper Analysis could further assist the Studios decisions:
 
@@ -42,7 +42,7 @@ Deeper Analysis could further assist the Studios decisions:
 
 
 
-### For More Information
+## For More Information
 
 
 ## Repository Structure
