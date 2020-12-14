@@ -49,6 +49,8 @@ Deeper Analysis could further assist the Studios decisions:
 
 ## For More Information
 
+Complete Analysis: Notebook
+
 For additional info, email Luca Caruccio at: lfcaruccio@gmail.com
 
 ## Repository Structure
