@@ -33,7 +33,9 @@ This Analysis leads to three key conclusions regarding Microsoft Studios' new pr
 Deeper Analysis could further assist the Studios decisions:
 
 1.Investigating ROI by percentage returned rather than gross value
+
 2.Analyze monthly Profits by genre to find the best potential matches for release dates and specific movies
+
 3.Lastly finding successful partners who have proven to have comparable impacts as the data solutions available so far, you know, which directors, which actors, which studios if you were to consider a joint venture.
 
 
@@ -43,7 +45,10 @@ Deeper Analysis could further assist the Studios decisions:
 
 ## Repository Structure
 -Data
+
 -images
+
 -Phase1_Presentation.pdf
+
 -Microsoft Studios Need Analysis
 
