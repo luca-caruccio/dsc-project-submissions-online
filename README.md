@@ -34,7 +34,8 @@ Your Jupyter Notebook is the primary source of information about your analysis. 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then record yourself delivering the presentation.
 
 ## Repository Structure
-
-To submit your project in Canvas, you will create and upload PDF versions of three project deliverables, then upload a recording of your video presentation. You will also submit the URL to your GitHub repository in a separate assignment.
-
+-Data
+-images
+-Phase1_Presentation.pdf
+-Microsoft Studios Need Analysis
 
