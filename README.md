@@ -18,7 +18,10 @@ This project will use descriptive analysis to group the available data according
 
 ## Results
 
+Genre Analysis:
 https://user-images.githubusercontent.com/72046733/102115630-aa16d300-3df0-11eb-8c47-aa1be7b2d9c3.png
+
+Budget/Profit relationship, Release Date(Grouped by Month)
 https://user-images.githubusercontent.com/72046733/102115682-bef36680-3df0-11eb-8f12-56d3aa444816.png
 
 
