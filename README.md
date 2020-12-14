@@ -31,7 +31,7 @@ Animation, Adventure, and Musicals tend to do the best across both rating and pr
 This Analysis leads to three key conclusions regarding Microsoft Studios' new project:
 
 1. Animation, Adventure, and Musicals are he most reliably successful genres through both rating and profit. Pick a film that falls under any combination of the three.
-2. Investing between 1-200 million on a production budget protects a studio’s profits while also minimizing the risk of any losses, so I would recommend choosing or financing a film with a budget in that range.
+2. Investing between 100-200 million on a production budget protects a studio’s profits while also minimizing the risk of any losses, so I would recommend choosing or financing a film with a budget in that range.
 3. Release dates for the film should prioritize the months of June, May, and November, in respective order of profit increase.
 
 
