@@ -18,6 +18,7 @@ This project will use descriptive analysis to group the available data according
 
 ## Results
 
+https://user-images.githubusercontent.com/72046733/102115630-aa16d300-3df0-11eb-8c47-aa1be7b2d9c3.png
 
 
 Animation, Adventure, and Musicals tend to do the best across both rating and profit. The best months to release films are June, May, and November. The ideal production budget should fall between 100-200 million, to ensure healthy profis an minimize risks.
